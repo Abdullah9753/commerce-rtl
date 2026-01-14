@@ -34,7 +34,7 @@ Handling RTL in modern Next.js 14/15 App Router can be tricky. Many solutions fo
 ```bash
 git clone [https://github.com/Abdullah9753/commerce-rtl.git](https://github.com/Abdullah9753/commerce-rtl.git)
 cd commerce-rtl
-
+```
 ## Running locally
 
 You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js Commerce. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables) for this, but a `.env` file is all that is necessary.
