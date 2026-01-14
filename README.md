@@ -18,6 +18,39 @@ This project demonstrates how to implement **Internationalization (i18n)** and *
 
 ---
 
+## 🏗️ Architecture & RTL Strategy
+
+Lumina uses a high-performance, server-side strategy to handle RTL.
+
+```mermaid
+sequenceDiagram
+    participant User as 🌐 Browser
+    participant Edge as ⚡ Edge Middleware
+    participant Server as 🏗️ Server Components
+    participant I18n as 📚 Translation/CMS
+
+    User->>Edge: 1. Initial Request (/ar/shop)
+    Note right of Edge: Detects Locale & Direction
+
+    Edge->>Server: Pass Request (locale=ar)
+    
+    rect rgb(20, 20, 20)
+        Note over Server: 🚀 Server-Side Magic
+        Server->>Server: Inject <html dir="rtl">
+        par Parallel Fetching
+            Server->>I18n: Fetch Translations
+            Server->>Server: Fetch Product Data
+        end
+    end
+
+    Server-->>User: 2. Return Full HTML (RTL Ready)
+    Note left of User: Instant Paint (No Flicker)
+    
+    User->>User: Hydrate Interactive Islands
+```
+
+---
+
 ## 💡 Why this fork?
 
 Handling RTL in modern Next.js 14/15 App Router can be tricky. Many solutions force client-side rendering or heavy libraries that degrade Core Web Vitals.
