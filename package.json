@@ -8,7 +8,7 @@
   "author": {
     "name": "Abdullah Bamzahem",
     "email": "dev.abdullah.bamzahem@gmail.com",
-    "url": "https://github.com/Abdullah9753"
+    "url": "https://github.com/AbdullahBamzahem"
   },
   "scripts": {
     "dev": "next dev --turbopack",

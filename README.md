@@ -1,7 +1,7 @@
 
 # Lumina | Next.js Commerce RTL Starter
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAbdullah9753%2Fcommerce-rtl&project-name=lumina-commerce&repository-name=lumina-commerce&env=SHOPIFY_STORE_DOMAIN,SHOPIFY_STOREFRONT_ACCESS_TOKEN,COMPANY_NAME,SITE_NAME)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAbdullahBamzahem%2Fcommerce-rtl&project-name=lumina-commerce&repository-name=lumina-commerce&env=SHOPIFY_STORE_DOMAIN,SHOPIFY_STOREFRONT_ACCESS_TOKEN,COMPANY_NAME,SITE_NAME)
 
 **Lumina** is a localized, **RTL-first** implementation of the official Next.js Commerce. It bridges the gap between the cutting-edge performance of the original template and the specific requirements of Arabic/RTL storefronts, without sacrificing speed or architecture.
 
@@ -65,7 +65,7 @@ Handling RTL in modern Next.js 14/15 App Router can be tricky. Many solutions fo
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Abdullah9753/commerce-rtl.git](https://github.com/Abdullah9753/commerce-rtl.git)
+git clone [https://github.com/AbdullahBamzahem/commerce-rtl.git](https://github.com/AbdullahBamzahem/commerce-rtl.git)
 cd commerce-rtl
 ```
 ## Running locally
@@ -92,11 +92,11 @@ You can use this comprehensive [integration guide](https://vercel.com/docs/integ
 
 ## 👥 Created by
 
-**Lumina** is a project by **[Bamzahem Digital](https://github.com/Abdullah9753)**, led by **Abdullah Bamzahem**.
+**Lumina** is a project by **[Bamzahem Digital](https://github.com/AbdullahBamzahem)**, led by **Abdullah Bamzahem**.
 
 We specialize in building high-performance, headless e-commerce solutions using Next.js & Shopify.
 
-- 🌐 **GitHub:** [@Abdullah9753](https://github.com/Abdullah9753)
+- 🌐 **GitHub:** [@AbdullahBamzahem](https://github.com/AbdullahBamzahem)
 - 📧 **Email:** dev.abdullah.bamzahem@gmail.com
 
 Acknowledgments & Credits
