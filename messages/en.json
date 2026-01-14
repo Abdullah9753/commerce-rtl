@@ -1,0 +1,41 @@
+{
+    "common": {
+        "loading": "Loading..."
+    },
+    "Navbar": {
+        "searchForProducts": "Search for products..."
+    },
+    "Cart": {
+        "openCart": "Open cart",
+        "myCart": "My Cart",
+        "emptyCart": "Your cart is empty",
+        "taxes": "Taxes",
+        "shipping": "Shipping",
+        "shippingNote": "Calculated at checkout",
+        "total": "Total",
+        "checkout": "Proceed to Checkout"
+    },
+    "Footer": {
+        "allRightsReserved": "All rights reserved.",
+        "viewSource": "View the source",
+        "createdBy": "Created by"
+    },
+    "Product": {
+        "addToCart": "Add To Cart",
+        "outOfStock": "Out Of Stock",
+        "selectOption": "Please select an option",
+        "price": "Price"
+    },
+    "Search": {
+        "title": "Sort by",
+        "collections": "Collections",
+        "all": "All",
+        "sort": {
+            "relevance": "Relevance",
+            "trending": "Trending",
+            "latest": "Latest arrivals",
+            "priceLowHigh": "Price: Low to high",
+            "priceHighLow": "Price: High to low"
+        }
+    }
+}

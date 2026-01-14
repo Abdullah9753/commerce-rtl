@@ -1,0 +1,41 @@
+{
+    "common": {
+        "loading": "جاري التحميل..."
+    },
+    "Navbar": {
+        "searchForProducts": "ابحث عن المنتجات..."
+    },
+    "Cart": {
+        "openCart": "فتح السلة",
+        "myCart": "سلة التسوق",
+        "emptyCart": "سلتك فارغة",
+        "taxes": "الضرائب",
+        "shipping": "الشحن",
+        "shippingNote": "يحسب عند الدفع",
+        "total": "المجموع",
+        "checkout": "إتمام الشراء"
+    },
+    "Footer": {
+        "allRightsReserved": "جميع الحقوق محفوظة.",
+        "viewSource": "عرض المصدر",
+        "createdBy": "أنشئ بواسطة"
+    },
+    "Product": {
+        "addToCart": "إضافة للسلة",
+        "outOfStock": "نفدت الكمية",
+        "selectOption": "الرجاء اختيار خيار",
+        "price": "السعر"
+    },
+    "Search": {
+        "title": "الترتيب حسب",
+        "collections": "المجموعات",
+        "all": "الكل",
+        "sort": {
+            "relevance": "الأكثر صلة",
+            "trending": "الأكثر رواجاً",
+            "latest": "أحدث الوصول",
+            "priceLowHigh": "السعر: من الأقل للأعلى",
+            "priceHighLow": "السعر: من الأعلى للأقل"
+        }
+    }
+}
