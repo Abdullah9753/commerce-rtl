@@ -20,7 +20,7 @@ This project demonstrates how to implement **Internationalization (i18n)** and *
 
 ## 🏗️ Architecture & RTL Strategy
 
-Lumina uses a high-performance, server-side strategy to handle RTL.
+Lumina uses a high-performance, server-side strategy to handle RTL without layout shifts (Zero CLS).
 
 ```mermaid
 sequenceDiagram
