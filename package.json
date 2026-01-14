@@ -1,5 +1,15 @@
+
 {
   "private": true,
+  "name": "lumina-commerce-rtl",
+  "version": "0.1.0",
+  "description": "High-performance Next.js Commerce starter with RTL support",
+  "license": "MIT",
+  "author": {
+    "name": "Abdullah Bamzahem",
+    "email": "dev.abdullah.bamzahem@gmail.com",
+    "url": "https://github.com/Abdullah9753"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
